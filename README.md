@@ -97,4 +97,4 @@ Para executar o cliente e o servidor, siga as instruções a seguir:
 
 ## Autor
 
-Este código foi criado por [Ana Athayde] como parte de um projeto de comunicação UDP em Java.
+Este código foi criado por Ana Athayde como parte de um projeto de comunicação UDP em Java.
